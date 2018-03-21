@@ -1,0 +1,1 @@
+READ METhis package is a simple three light setup to illuminate a Maya scene within the confines of the default grid scale. It also has a simple GUI to change the intensity of the created lights.
